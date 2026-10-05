@@ -1,0 +1,151 @@
+career,experience,min_lpa,median_lpa,max_lpa,is_demo
+AI Engineer,Fresher,4.2,5.6,8.7,True
+AI Engineer,0–2 years,5.1,6.8,10.5,True
+AI Engineer,2–5 years,6.6,8.8,13.6,True
+AI Engineer,5–8 years,8.7,11.6,18.0,True
+AI Engineer,8+ years,11.1,14.8,22.9,True
+Machine Learning Engineer,Fresher,4.3,5.7,8.8,True
+Machine Learning Engineer,0–2 years,5.2,6.9,10.7,True
+Machine Learning Engineer,2–5 years,6.7,8.9,13.8,True
+Machine Learning Engineer,5–8 years,8.8,11.7,18.1,True
+Machine Learning Engineer,8+ years,11.2,15.0,23.2,True
+Data Scientist,Fresher,4.1,5.5,8.5,True
+Data Scientist,0–2 years,5.0,6.7,10.4,True
+Data Scientist,2–5 years,6.5,8.7,13.5,True
+Data Scientist,5–8 years,8.6,11.5,17.8,True
+Data Scientist,8+ years,10.9,14.6,22.6,True
+Data Analyst,Fresher,3.8,5.0,7.8,True
+Data Analyst,0–2 years,4.5,6.0,9.3,True
+Data Analyst,2–5 years,5.8,7.8,12.1,True
+Data Analyst,5–8 years,7.7,10.3,16.0,True
+Data Analyst,8+ years,9.8,13.1,20.3,True
+Data Engineer,Fresher,4.1,5.4,8.4,True
+Data Engineer,0–2 years,4.9,6.6,10.2,True
+Data Engineer,2–5 years,6.4,8.5,13.2,True
+Data Engineer,5–8 years,8.4,11.2,17.4,True
+Data Engineer,8+ years,10.7,14.3,22.2,True
+Generative AI Engineer,Fresher,4.5,6.0,9.3,True
+Generative AI Engineer,0–2 years,5.5,7.3,11.3,True
+Generative AI Engineer,2–5 years,7.1,9.4,14.6,True
+Generative AI Engineer,5–8 years,9.3,12.4,19.2,True
+Generative AI Engineer,8+ years,11.9,15.8,24.5,True
+LLM Engineer,Fresher,4.4,5.9,9.1,True
+LLM Engineer,0–2 years,5.4,7.2,11.2,True
+LLM Engineer,2–5 years,7.0,9.3,14.4,True
+LLM Engineer,5–8 years,9.2,12.3,19.1,True
+LLM Engineer,8+ years,11.7,15.6,24.2,True
+AI Agent Engineer,Fresher,4.4,5.9,9.1,True
+AI Agent Engineer,0–2 years,5.3,7.1,11.0,True
+AI Agent Engineer,2–5 years,6.9,9.2,14.3,True
+AI Agent Engineer,5–8 years,9.1,12.1,18.8,True
+AI Agent Engineer,8+ years,11.6,15.5,24.0,True
+Python Developer,Fresher,3.8,5.0,7.8,True
+Python Developer,0–2 years,4.6,6.1,9.5,True
+Python Developer,2–5 years,5.9,7.9,12.2,True
+Python Developer,5–8 years,7.8,10.4,16.1,True
+Python Developer,8+ years,10.0,13.3,20.6,True
+Backend Developer,Fresher,3.9,5.2,8.1,True
+Backend Developer,0–2 years,4.7,6.3,9.8,True
+Backend Developer,2–5 years,6.1,8.2,12.7,True
+Backend Developer,5–8 years,8.1,10.8,16.7,True
+Backend Developer,8+ years,10.4,13.8,21.4,True
+Full Stack Developer,Fresher,4.0,5.3,8.2,True
+Full Stack Developer,0–2 years,4.8,6.4,9.9,True
+Full Stack Developer,2–5 years,6.2,8.3,12.9,True
+Full Stack Developer,5–8 years,8.2,10.9,16.9,True
+Full Stack Developer,8+ years,10.5,14.0,21.7,True
+Frontend Developer,Fresher,3.8,5.0,7.8,True
+Frontend Developer,0–2 years,4.5,6.0,9.3,True
+Frontend Developer,2–5 years,5.8,7.8,12.1,True
+Frontend Developer,5–8 years,7.7,10.3,16.0,True
+Frontend Developer,8+ years,9.8,13.1,20.3,True
+Software Engineer,Fresher,4.0,5.3,8.2,True
+Software Engineer,0–2 years,4.9,6.5,10.1,True
+Software Engineer,2–5 years,6.3,8.4,13.0,True
+Software Engineer,5–8 years,8.3,11.1,17.2,True
+Software Engineer,8+ years,10.6,14.1,21.9,True
+Cloud Engineer,Fresher,4.1,5.5,8.5,True
+Cloud Engineer,0–2 years,5.0,6.7,10.4,True
+Cloud Engineer,2–5 years,6.5,8.7,13.5,True
+Cloud Engineer,5–8 years,8.6,11.5,17.8,True
+Cloud Engineer,8+ years,10.9,14.6,22.6,True
+DevOps Engineer,Fresher,4.2,5.6,8.7,True
+DevOps Engineer,0–2 years,5.1,6.8,10.5,True
+DevOps Engineer,2–5 years,6.6,8.8,13.6,True
+DevOps Engineer,5–8 years,8.7,11.6,18.0,True
+DevOps Engineer,8+ years,11.1,14.8,22.9,True
+Cybersecurity Analyst,Fresher,4.0,5.3,8.2,True
+Cybersecurity Analyst,0–2 years,4.9,6.5,10.1,True
+Cybersecurity Analyst,2–5 years,6.3,8.4,13.0,True
+Cybersecurity Analyst,5–8 years,8.3,11.1,17.2,True
+Cybersecurity Analyst,8+ years,10.6,14.1,21.9,True
+Cloud Security Engineer,Fresher,4.3,5.8,9.0,True
+Cloud Security Engineer,0–2 years,5.2,7.0,10.8,True
+Cloud Security Engineer,2–5 years,6.8,9.1,14.1,True
+Cloud Security Engineer,5–8 years,9.0,12.0,18.6,True
+Cloud Security Engineer,8+ years,11.5,15.3,23.7,True
+Business Intelligence Analyst,Fresher,3.7,4.9,7.6,True
+Business Intelligence Analyst,0–2 years,4.5,6.0,9.3,True
+Business Intelligence Analyst,2–5 years,5.8,7.7,11.9,True
+Business Intelligence Analyst,5–8 years,7.6,10.2,15.8,True
+Business Intelligence Analyst,8+ years,9.8,13.0,20.2,True
+Computer Vision Engineer,Fresher,4.3,5.7,8.8,True
+Computer Vision Engineer,0–2 years,5.2,7.0,10.8,True
+Computer Vision Engineer,2–5 years,6.8,9.0,14.0,True
+Computer Vision Engineer,5–8 years,8.9,11.9,18.4,True
+Computer Vision Engineer,8+ years,11.3,15.1,23.4,True
+NLP Engineer,Fresher,4.4,5.9,9.1,True
+NLP Engineer,0–2 years,5.3,7.1,11.0,True
+NLP Engineer,2–5 years,6.9,9.2,14.3,True
+NLP Engineer,5–8 years,9.1,12.1,18.8,True
+NLP Engineer,8+ years,11.6,15.5,24.0,True
+MLOps Engineer,Fresher,4.3,5.8,9.0,True
+MLOps Engineer,0–2 years,5.2,7.0,10.8,True
+MLOps Engineer,2–5 years,6.8,9.1,14.1,True
+MLOps Engineer,5–8 years,9.0,12.0,18.6,True
+MLOps Engineer,8+ years,11.5,15.3,23.7,True
+Research Engineer,Fresher,4.5,6.0,9.3,True
+Research Engineer,0–2 years,5.5,7.3,11.3,True
+Research Engineer,2–5 years,7.1,9.4,14.6,True
+Research Engineer,5–8 years,9.3,12.4,19.2,True
+Research Engineer,8+ years,11.9,15.8,24.5,True
+Mobile Developer,Fresher,3.6,4.8,7.4,True
+Mobile Developer,0–2 years,4.4,5.9,9.1,True
+Mobile Developer,2–5 years,5.7,7.6,11.8,True
+Mobile Developer,5–8 years,7.5,10.0,15.5,True
+Mobile Developer,8+ years,9.6,12.8,19.8,True
+IoT Engineer,Fresher,3.8,5.0,7.8,True
+IoT Engineer,0–2 years,4.6,6.1,9.5,True
+IoT Engineer,2–5 years,5.9,7.9,12.2,True
+IoT Engineer,5–8 years,7.8,10.4,16.1,True
+IoT Engineer,8+ years,10.0,13.3,20.6,True
+Embedded Systems Engineer,Fresher,4.0,5.3,8.2,True
+Embedded Systems Engineer,0–2 years,4.9,6.5,10.1,True
+Embedded Systems Engineer,2–5 years,6.3,8.4,13.0,True
+Embedded Systems Engineer,5–8 years,8.3,11.1,17.2,True
+Embedded Systems Engineer,8+ years,10.6,14.1,21.9,True
+Blockchain Developer,Fresher,4.1,5.4,8.4,True
+Blockchain Developer,0–2 years,4.9,6.6,10.2,True
+Blockchain Developer,2–5 years,6.4,8.5,13.2,True
+Blockchain Developer,5–8 years,8.4,11.2,17.4,True
+Blockchain Developer,8+ years,10.7,14.3,22.2,True
+QA Automation Engineer,Fresher,3.6,4.8,7.4,True
+QA Automation Engineer,0–2 years,4.3,5.8,9.0,True
+QA Automation Engineer,2–5 years,5.6,7.5,11.6,True
+QA Automation Engineer,5–8 years,7.4,9.9,15.3,True
+QA Automation Engineer,8+ years,9.4,12.6,19.5,True
+Site Reliability Engineer,Fresher,4.3,5.7,8.8,True
+Site Reliability Engineer,0–2 years,5.2,6.9,10.7,True
+Site Reliability Engineer,2–5 years,6.7,8.9,13.8,True
+Site Reliability Engineer,5–8 years,8.8,11.7,18.1,True
+Site Reliability Engineer,8+ years,11.2,15.0,23.2,True
+Analytics Engineer,Fresher,4.0,5.3,8.2,True
+Analytics Engineer,0–2 years,4.8,6.4,9.9,True
+Analytics Engineer,2–5 years,6.2,8.3,12.9,True
+Analytics Engineer,5–8 years,8.2,10.9,16.9,True
+Analytics Engineer,8+ years,10.5,14.0,21.7,True
+Platform Engineer,Fresher,4.1,5.5,8.5,True
+Platform Engineer,0–2 years,5.0,6.7,10.4,True
+Platform Engineer,2–5 years,6.5,8.7,13.5,True
+Platform Engineer,5–8 years,8.6,11.5,17.8,True
+Platform Engineer,8+ years,10.9,14.6,22.6,True

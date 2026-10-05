@@ -1,0 +1,117 @@
+skill,category
+Python,Programming
+C,Programming
+C++,Programming
+Java,Programming
+JavaScript,Programming
+TypeScript,Programming
+Go,Programming
+Rust,Programming
+PHP,Programming
+R,Programming
+Kotlin,Programming
+Swift,Programming
+SQL,Programming
+HTML,Web
+CSS,Web
+React,Web
+Next.js,Web
+Angular,Web
+Vue,Web
+Node.js,Web
+Express,Web
+Django,Web
+Flask,Web
+FastAPI,Web
+Artificial Intelligence,AI/ML
+Machine Learning,AI/ML
+Deep Learning,AI/ML
+NLP,AI/ML
+Computer Vision,AI/ML
+Generative AI,AI/ML
+LLMs,AI/ML
+AI Agents,AI/ML
+Reinforcement Learning,AI/ML
+TensorFlow,AI/ML
+PyTorch,AI/ML
+Scikit-learn,AI/ML
+Pandas,AI/ML
+NumPy,AI/ML
+OpenCV,AI/ML
+Data Analysis,Data
+Data Visualization,Data
+Power BI,Data
+Tableau,Data
+Excel,Data
+Statistics,Data
+Data Engineering,Data
+ETL,Data
+AWS,Cloud/DevOps
+Azure,Cloud/DevOps
+Google Cloud,Cloud/DevOps
+Docker,Cloud/DevOps
+Kubernetes,Cloud/DevOps
+Git,Cloud/DevOps
+GitHub,Cloud/DevOps
+CI/CD,Cloud/DevOps
+Linux,Cloud/DevOps
+Terraform,Cloud/DevOps
+Network Security,Security
+Ethical Hacking,Security
+Cybersecurity,Security
+Cryptography,Security
+Cloud Security,Security
+Penetration Testing,Security
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+Oracle,Database
+Redis,Database
+REST API,Other
+System Design,Other
+DSA,Other
+OOP,Other
+Agile,Other
+Testing,Other
+Spark,Data
+Hadoop,Data
+Kafka,Data
+Airflow,Data
+dbt,Data
+Databricks,Data
+Snowflake,Data
+MLflow,AI/ML
+MLOps,AI/ML
+SageMaker,AI/ML
+Azure ML,AI/ML
+GCP Vertex AI,AI/ML
+Hugging Face,AI/ML
+Transformers,AI/ML
+RAG,AI/ML
+Vector Databases,AI/ML
+LangChain,AI/ML
+Streamlit,Other
+Matplotlib,Other
+Seaborn,Other
+GitLab,Other
+Jenkins,Cloud/DevOps
+Ansible,Cloud/DevOps
+Prometheus,Cloud/DevOps
+Grafana,Cloud/DevOps
+Linux Administration,Cloud/DevOps
+Networking,Other
+IAM,Security
+SIEM,Security
+SOC,Security
+Threat Modeling,Security
+Embedded C,Other
+Arduino,Other
+Raspberry Pi,Other
+MATLAB,Other
+Verilog,Other
+VHDL,Other
+IoT,Other
+Blockchain,Other
+Solidity,Other
+Figma,Other
+Jira,Other

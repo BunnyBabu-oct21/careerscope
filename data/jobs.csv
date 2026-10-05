@@ -1,0 +1,221 @@
+job_id,title,career,company,location,experience,required_skills,salary_min_lpa,salary_max_lpa,work_mode,source,source_url,posted_date,is_demo,domain
+DEMO-0001,AI Engineer,AI Engineer,Google,Bengaluru,Fresher,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|PyTorch,8.0,14.7,Remote,Demo/Local Dataset,,2026-09-01,True,Artificial Intelligence
+DEMO-0002,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Chennai,0–2 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|Docker,8.5,15.4,Hybrid,Demo/Local Dataset,,2026-09-02,True,Machine Learning
+DEMO-0003,Data Scientist,Data Scientist,Amazon,Noida,2–5 years,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Tableau,8.7,15.2,On-site,Demo/Local Dataset,,2026-09-03,True,Data Science
+DEMO-0004,BI Analyst,Data Analyst,Meta,Ahmedabad,5–8 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Pandas,8.3,14.9,Remote,Demo/Local Dataset,,2026-09-04,True,Data Analytics
+DEMO-0005,Data Engineer,Data Engineer,Apple,Coimbatore,Fresher,Python|SQL|Data Engineering|ETL|Git|Snowflake,7.7,14.0,Hybrid,Demo/Local Dataset,,2026-09-05,True,Data Engineering
+DEMO-0006,Generative AI Engineer,Generative AI Engineer,IBM,Hyderabad,0–2 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,8.9,16.0,On-site,Demo/Local Dataset,,2026-09-06,True,Generative AI
+DEMO-0007,LLM Engineer,LLM Engineer,Accenture,Mumbai,2–5 years,Python|LLMs|Generative AI|NLP|PyTorch|RAG,9.3,16.3,Remote,Demo/Local Dataset,,2026-09-07,True,Generative AI
+DEMO-0008,Agentic AI Engineer,AI Agent Engineer,Deloitte,Gurugram,5–8 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,9.6,16.5,Hybrid,Demo/Local Dataset,,2026-09-08,True,Artificial Intelligence
+DEMO-0009,Python Developer,Python Developer,TCS,Kochi,Fresher,Python|OOP|Git|REST API|SQL|Django,7.2,13.5,On-site,Demo/Local Dataset,,2026-09-09,True,Software Engineering
+DEMO-0010,API Developer,Backend Developer,Infosys,Visakhapatnam,0–2 years,Python|Java|SQL|REST API|Git|System Design,7.9,14.5,Remote,Demo/Local Dataset,,2026-09-10,True,Backend Development
+DEMO-0011,Full Stack Developer,Full Stack Developer,Wipro,Pune,2–5 years,HTML|CSS|JavaScript|React|Node.js|SQL|Git|Express,8.3,15.0,Hybrid,Demo/Local Dataset,,2026-09-11,True,Full Stack Development
+DEMO-0012,UI Developer,Frontend Developer,HCLTech,Delhi NCR,5–8 years,HTML|CSS|JavaScript|React|Git|Figma,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-12,True,Frontend Development
+DEMO-0013,Software Engineer,Software Engineer,Tech Mahindra,Kolkata,Fresher,Python|Java|OOP|DSA|Git|SQL|System Design,7.6,14.6,Remote,Demo/Local Dataset,,2026-09-13,True,Software Engineering
+DEMO-0014,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Jaipur,0–2 years,AWS|Linux|Networking|Git|Kubernetes,8.3,14.8,Hybrid,Demo/Local Dataset,,2026-09-14,True,Cloud Computing
+DEMO-0015,DevOps Engineer,DevOps Engineer,Capgemini,Bengaluru,2–5 years,Linux|Git|CI/CD|Docker|AWS|Grafana,8.8,15.6,On-site,Demo/Local Dataset,,2026-09-15,True,DevOps
+DEMO-0016,SOC Analyst,Cybersecurity Analyst,Oracle,Chennai,5–8 years,Cybersecurity|Networking|Linux|SIEM|IAM,8.8,15.0,Remote,Demo/Local Dataset,,2026-09-16,True,Cybersecurity
+DEMO-0017,Cloud Security Engineer,Cloud Security Engineer,Adobe,Noida,Fresher,Cloud Security|AWS|IAM|Networking|Cybersecurity|Terraform,8.3,14.7,Hybrid,Demo/Local Dataset,,2026-09-17,True,Cloud Computing
+DEMO-0018,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Ahmedabad,0–2 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|Statistics,7.4,13.4,On-site,Demo/Local Dataset,,2026-09-18,True,Business Intelligence
+DEMO-0019,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Coimbatore,2–5 years,Python|Computer Vision|OpenCV|Deep Learning|NumPy|C++,9.0,15.1,Remote,Demo/Local Dataset,,2026-09-19,True,Artificial Intelligence
+DEMO-0020,Language AI Engineer,NLP Engineer,Salesforce,Hyderabad,5–8 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|RAG,9.6,16.1,Hybrid,Demo/Local Dataset,,2026-09-20,True,Artificial Intelligence
+DEMO-0021,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Mumbai,Fresher,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-21,True,Machine Learning
+DEMO-0022,AI Research Engineer,Research Engineer,Walmart Global Tech,Gurugram,0–2 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Computer Vision,8.9,13.9,Remote,Demo/Local Dataset,,2026-09-22,True,Research
+DEMO-0023,Android Developer,Mobile Developer,Flipkart,Kochi,2–5 years,Java|Kotlin|Swift|Git|REST API,7.7,13.4,Hybrid,Demo/Local Dataset,,2026-09-23,True,Mobile Development
+DEMO-0024,IoT Developer,IoT Engineer,Swiggy,Visakhapatnam,5–8 years,C|C++|Python|IoT|Linux|Embedded C,8.4,13.6,On-site,Demo/Local Dataset,,2026-09-24,True,IoT
+DEMO-0025,Embedded Engineer,Embedded Systems Engineer,Razorpay,Pune,Fresher,C|C++|Embedded C|Linux|Git|Arduino,7.6,13.0,Remote,Demo/Local Dataset,,2026-09-25,True,Embedded Systems
+DEMO-0026,Smart Contract Developer,Blockchain Developer,Zoho,Delhi NCR,0–2 years,JavaScript|Solidity|Blockchain|Git|REST API|TypeScript,8.1,12.4,Hybrid,Demo/Local Dataset,,2026-09-26,True,Blockchain
+DEMO-0027,QA Automation Engineer,QA Automation Engineer,Freshworks,Kolkata,2–5 years,Python|Java|Testing|Git|SQL|Jenkins,7.6,13.5,On-site,Demo/Local Dataset,,2026-09-27,True,Software Engineering
+DEMO-0028,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Jaipur,5–8 years,Linux|Python|AWS|Docker|Git|Prometheus,9.3,15.6,Remote,Demo/Local Dataset,,2026-09-28,True,Cloud Computing
+DEMO-0029,Analytics Engineer,Analytics Engineer,LTIMindtree,Bengaluru,Fresher,SQL|Python|Data Engineering|ETL|Git|dbt,7.5,13.3,Hybrid,Demo/Local Dataset,,2026-09-29,True,Data Engineering
+DEMO-0030,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Chennai,0–2 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,8.3,14.4,On-site,Demo/Local Dataset,,2026-09-30,True,DevOps
+DEMO-0031,AI Engineer,AI Engineer,Google,Noida,2–5 years,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|Generative AI,8.8,15.5,Remote,Demo/Local Dataset,,2026-10-01,True,Artificial Intelligence
+DEMO-0032,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Ahmedabad,5–8 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|AWS,9.3,16.2,Hybrid,Demo/Local Dataset,,2026-10-02,True,Machine Learning
+DEMO-0033,Data Scientist,Data Scientist,Amazon,Coimbatore,Fresher,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Scikit-learn,7.9,14.4,On-site,Demo/Local Dataset,,2026-10-03,True,Data Science
+DEMO-0034,BI Analyst,Data Analyst,Meta,Hyderabad,0–2 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Tableau,7.5,14.1,Remote,Demo/Local Dataset,,2026-10-04,True,Data Analytics
+DEMO-0035,Data Engineer,Data Engineer,Apple,Mumbai,2–5 years,Python|SQL|Data Engineering|ETL|Git|Snowflake,8.5,14.8,Hybrid,Demo/Local Dataset,,2026-10-05,True,Data Engineering
+DEMO-0036,Generative AI Engineer,Generative AI Engineer,IBM,Gurugram,5–8 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,9.7,16.8,On-site,Demo/Local Dataset,,2026-09-01,True,Generative AI
+DEMO-0037,LLM Engineer,LLM Engineer,Accenture,Kochi,Fresher,Python|LLMs|Generative AI|NLP|PyTorch|RAG,8.5,15.5,Remote,Demo/Local Dataset,,2026-09-02,True,Generative AI
+DEMO-0038,Agentic AI Engineer,AI Agent Engineer,Deloitte,Visakhapatnam,0–2 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,8.8,15.7,Hybrid,Demo/Local Dataset,,2026-09-03,True,Artificial Intelligence
+DEMO-0039,Python Developer,Python Developer,TCS,Pune,2–5 years,Python|OOP|Git|REST API|SQL|FastAPI,8.0,14.3,On-site,Demo/Local Dataset,,2026-09-04,True,Software Engineering
+DEMO-0040,API Developer,Backend Developer,Infosys,Delhi NCR,5–8 years,Python|Java|SQL|REST API|Git|System Design,8.7,15.3,Remote,Demo/Local Dataset,,2026-09-05,True,Backend Development
+DEMO-0041,Full Stack Developer,Full Stack Developer,Wipro,Kolkata,Fresher,HTML|CSS|JavaScript|React|Node.js|SQL|Git|TypeScript,7.5,14.2,Hybrid,Demo/Local Dataset,,2026-09-06,True,Full Stack Development
+DEMO-0042,UI Developer,Frontend Developer,HCLTech,Jaipur,0–2 years,HTML|CSS|JavaScript|React|Git|Next.js,7.5,13.9,On-site,Demo/Local Dataset,,2026-09-07,True,Frontend Development
+DEMO-0043,Software Engineer,Software Engineer,Tech Mahindra,Bengaluru,2–5 years,Python|Java|OOP|DSA|Git|SQL|Docker,8.4,15.4,Remote,Demo/Local Dataset,,2026-09-08,True,Software Engineering
+DEMO-0044,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Chennai,5–8 years,AWS|Linux|Networking|Git|CI/CD,9.1,15.6,Hybrid,Demo/Local Dataset,,2026-09-09,True,Cloud Computing
+DEMO-0045,DevOps Engineer,DevOps Engineer,Capgemini,Noida,Fresher,Linux|Git|CI/CD|Docker|AWS|Grafana,8.0,14.8,On-site,Demo/Local Dataset,,2026-09-10,True,DevOps
+DEMO-0046,SOC Analyst,Cybersecurity Analyst,Oracle,Ahmedabad,0–2 years,Cybersecurity|Networking|Linux|SIEM|Threat Modeling,8.0,14.2,Remote,Demo/Local Dataset,,2026-09-11,True,Cybersecurity
+DEMO-0047,Cloud Security Engineer,Cloud Security Engineer,Adobe,Coimbatore,2–5 years,Cloud Security|AWS|IAM|Networking|Cybersecurity|SIEM,9.1,15.5,Hybrid,Demo/Local Dataset,,2026-09-12,True,Cloud Computing
+DEMO-0048,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Hyderabad,5–8 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|ETL,8.2,14.2,On-site,Demo/Local Dataset,,2026-09-13,True,Business Intelligence
+DEMO-0049,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Mumbai,Fresher,Python|Computer Vision|OpenCV|Deep Learning|NumPy|PyTorch,8.2,14.3,Remote,Demo/Local Dataset,,2026-09-14,True,Artificial Intelligence
+DEMO-0050,Language AI Engineer,NLP Engineer,Salesforce,Gurugram,0–2 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|LLMs,8.8,15.3,Hybrid,Demo/Local Dataset,,2026-09-15,True,Artificial Intelligence
+DEMO-0051,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Kochi,2–5 years,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,9.1,15.5,On-site,Demo/Local Dataset,,2026-09-16,True,Machine Learning
+DEMO-0052,AI Research Engineer,Research Engineer,Walmart Global Tech,Visakhapatnam,5–8 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Transformers,9.7,14.7,Remote,Demo/Local Dataset,,2026-09-17,True,Research
+DEMO-0053,Android Developer,Mobile Developer,Flipkart,Pune,Fresher,Java|Kotlin|Swift|Git|React,6.9,12.6,Hybrid,Demo/Local Dataset,,2026-09-18,True,Mobile Development
+DEMO-0054,IoT Developer,IoT Engineer,Swiggy,Delhi NCR,0–2 years,C|C++|Python|IoT|Linux|Raspberry Pi,7.6,12.8,On-site,Demo/Local Dataset,,2026-09-19,True,IoT
+DEMO-0055,Embedded Engineer,Embedded Systems Engineer,Razorpay,Kolkata,2–5 years,C|C++|Embedded C|Linux|Git|MATLAB,8.4,13.8,Remote,Demo/Local Dataset,,2026-09-20,True,Embedded Systems
+DEMO-0056,Smart Contract Developer,Blockchain Developer,Zoho,Jaipur,5–8 years,JavaScript|Solidity|Blockchain|Git|REST API|Cryptography,8.9,13.2,Hybrid,Demo/Local Dataset,,2026-09-21,True,Blockchain
+DEMO-0057,QA Automation Engineer,QA Automation Engineer,Freshworks,Bengaluru,Fresher,Python|Java|Testing|Git|SQL|Selenium,6.8,12.7,On-site,Demo/Local Dataset,,2026-09-22,True,Software Engineering
+DEMO-0058,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Chennai,0–2 years,Linux|Python|AWS|Docker|Git|Prometheus,8.5,14.8,Remote,Demo/Local Dataset,,2026-09-23,True,Cloud Computing
+DEMO-0059,Analytics Engineer,Analytics Engineer,LTIMindtree,Noida,2–5 years,SQL|Python|Data Engineering|ETL|Git|Airflow,8.3,14.1,Hybrid,Demo/Local Dataset,,2026-09-24,True,Data Engineering
+DEMO-0060,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Ahmedabad,5–8 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,9.1,15.2,On-site,Demo/Local Dataset,,2026-09-25,True,DevOps
+DEMO-0061,AI Engineer,AI Engineer,Google,Coimbatore,Fresher,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|PyTorch,8.0,14.7,Remote,Demo/Local Dataset,,2026-09-26,True,Artificial Intelligence
+DEMO-0062,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Hyderabad,0–2 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|Docker,8.5,15.4,Hybrid,Demo/Local Dataset,,2026-09-27,True,Machine Learning
+DEMO-0063,Data Scientist,Data Scientist,Amazon,Mumbai,2–5 years,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Tableau,8.7,15.2,On-site,Demo/Local Dataset,,2026-09-28,True,Data Science
+DEMO-0064,BI Analyst,Data Analyst,Meta,Gurugram,5–8 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Pandas,8.3,14.9,Remote,Demo/Local Dataset,,2026-09-29,True,Data Analytics
+DEMO-0065,Data Engineer,Data Engineer,Apple,Kochi,Fresher,Python|SQL|Data Engineering|ETL|Git|Snowflake,7.7,14.0,Hybrid,Demo/Local Dataset,,2026-09-30,True,Data Engineering
+DEMO-0066,Generative AI Engineer,Generative AI Engineer,IBM,Visakhapatnam,0–2 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,8.9,16.0,On-site,Demo/Local Dataset,,2026-10-01,True,Generative AI
+DEMO-0067,LLM Engineer,LLM Engineer,Accenture,Pune,2–5 years,Python|LLMs|Generative AI|NLP|PyTorch|RAG,9.3,16.3,Remote,Demo/Local Dataset,,2026-10-02,True,Generative AI
+DEMO-0068,Agentic AI Engineer,AI Agent Engineer,Deloitte,Delhi NCR,5–8 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,9.6,16.5,Hybrid,Demo/Local Dataset,,2026-10-03,True,Artificial Intelligence
+DEMO-0069,Python Developer,Python Developer,TCS,Kolkata,Fresher,Python|OOP|Git|REST API|SQL|Django,7.2,13.5,On-site,Demo/Local Dataset,,2026-10-04,True,Software Engineering
+DEMO-0070,API Developer,Backend Developer,Infosys,Jaipur,0–2 years,Python|Java|SQL|REST API|Git|System Design,7.9,14.5,Remote,Demo/Local Dataset,,2026-10-05,True,Backend Development
+DEMO-0071,Full Stack Developer,Full Stack Developer,Wipro,Bengaluru,2–5 years,HTML|CSS|JavaScript|React|Node.js|SQL|Git|Express,8.3,15.0,Hybrid,Demo/Local Dataset,,2026-09-01,True,Full Stack Development
+DEMO-0072,UI Developer,Frontend Developer,HCLTech,Chennai,5–8 years,HTML|CSS|JavaScript|React|Git|Figma,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-02,True,Frontend Development
+DEMO-0073,Software Engineer,Software Engineer,Tech Mahindra,Noida,Fresher,Python|Java|OOP|DSA|Git|SQL|System Design,7.6,14.6,Remote,Demo/Local Dataset,,2026-09-03,True,Software Engineering
+DEMO-0074,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Ahmedabad,0–2 years,AWS|Linux|Networking|Git|Kubernetes,8.3,14.8,Hybrid,Demo/Local Dataset,,2026-09-04,True,Cloud Computing
+DEMO-0075,DevOps Engineer,DevOps Engineer,Capgemini,Coimbatore,2–5 years,Linux|Git|CI/CD|Docker|AWS|Grafana,8.8,15.6,On-site,Demo/Local Dataset,,2026-09-05,True,DevOps
+DEMO-0076,SOC Analyst,Cybersecurity Analyst,Oracle,Hyderabad,5–8 years,Cybersecurity|Networking|Linux|SIEM|IAM,8.8,15.0,Remote,Demo/Local Dataset,,2026-09-06,True,Cybersecurity
+DEMO-0077,Cloud Security Engineer,Cloud Security Engineer,Adobe,Mumbai,Fresher,Cloud Security|AWS|IAM|Networking|Cybersecurity|Terraform,8.3,14.7,Hybrid,Demo/Local Dataset,,2026-09-07,True,Cloud Computing
+DEMO-0078,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Gurugram,0–2 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|Statistics,7.4,13.4,On-site,Demo/Local Dataset,,2026-09-08,True,Business Intelligence
+DEMO-0079,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Kochi,2–5 years,Python|Computer Vision|OpenCV|Deep Learning|NumPy|C++,9.0,15.1,Remote,Demo/Local Dataset,,2026-09-09,True,Artificial Intelligence
+DEMO-0080,Language AI Engineer,NLP Engineer,Salesforce,Visakhapatnam,5–8 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|RAG,9.6,16.1,Hybrid,Demo/Local Dataset,,2026-09-10,True,Artificial Intelligence
+DEMO-0081,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Pune,Fresher,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-11,True,Machine Learning
+DEMO-0082,AI Research Engineer,Research Engineer,Walmart Global Tech,Delhi NCR,0–2 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Computer Vision,8.9,13.9,Remote,Demo/Local Dataset,,2026-09-12,True,Research
+DEMO-0083,Android Developer,Mobile Developer,Flipkart,Kolkata,2–5 years,Java|Kotlin|Swift|Git|REST API,7.7,13.4,Hybrid,Demo/Local Dataset,,2026-09-13,True,Mobile Development
+DEMO-0084,IoT Developer,IoT Engineer,Swiggy,Jaipur,5–8 years,C|C++|Python|IoT|Linux|Embedded C,8.4,13.6,On-site,Demo/Local Dataset,,2026-09-14,True,IoT
+DEMO-0085,Embedded Engineer,Embedded Systems Engineer,Razorpay,Bengaluru,Fresher,C|C++|Embedded C|Linux|Git|Arduino,7.6,13.0,Remote,Demo/Local Dataset,,2026-09-15,True,Embedded Systems
+DEMO-0086,Smart Contract Developer,Blockchain Developer,Zoho,Chennai,0–2 years,JavaScript|Solidity|Blockchain|Git|REST API|TypeScript,8.1,12.4,Hybrid,Demo/Local Dataset,,2026-09-16,True,Blockchain
+DEMO-0087,QA Automation Engineer,QA Automation Engineer,Freshworks,Noida,2–5 years,Python|Java|Testing|Git|SQL|Jenkins,7.6,13.5,On-site,Demo/Local Dataset,,2026-09-17,True,Software Engineering
+DEMO-0088,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Ahmedabad,5–8 years,Linux|Python|AWS|Docker|Git|Prometheus,9.3,15.6,Remote,Demo/Local Dataset,,2026-09-18,True,Cloud Computing
+DEMO-0089,Analytics Engineer,Analytics Engineer,LTIMindtree,Coimbatore,Fresher,SQL|Python|Data Engineering|ETL|Git|dbt,7.5,13.3,Hybrid,Demo/Local Dataset,,2026-09-19,True,Data Engineering
+DEMO-0090,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Hyderabad,0–2 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,8.3,14.4,On-site,Demo/Local Dataset,,2026-09-20,True,DevOps
+DEMO-0091,AI Engineer,AI Engineer,Google,Mumbai,2–5 years,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|Generative AI,8.8,15.5,Remote,Demo/Local Dataset,,2026-09-21,True,Artificial Intelligence
+DEMO-0092,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Gurugram,5–8 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|AWS,9.3,16.2,Hybrid,Demo/Local Dataset,,2026-09-22,True,Machine Learning
+DEMO-0093,Data Scientist,Data Scientist,Amazon,Kochi,Fresher,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Scikit-learn,7.9,14.4,On-site,Demo/Local Dataset,,2026-09-23,True,Data Science
+DEMO-0094,BI Analyst,Data Analyst,Meta,Visakhapatnam,0–2 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Tableau,7.5,14.1,Remote,Demo/Local Dataset,,2026-09-24,True,Data Analytics
+DEMO-0095,Data Engineer,Data Engineer,Apple,Pune,2–5 years,Python|SQL|Data Engineering|ETL|Git|Snowflake,8.5,14.8,Hybrid,Demo/Local Dataset,,2026-09-25,True,Data Engineering
+DEMO-0096,Generative AI Engineer,Generative AI Engineer,IBM,Delhi NCR,5–8 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,9.7,16.8,On-site,Demo/Local Dataset,,2026-09-26,True,Generative AI
+DEMO-0097,LLM Engineer,LLM Engineer,Accenture,Kolkata,Fresher,Python|LLMs|Generative AI|NLP|PyTorch|RAG,8.5,15.5,Remote,Demo/Local Dataset,,2026-09-27,True,Generative AI
+DEMO-0098,Agentic AI Engineer,AI Agent Engineer,Deloitte,Jaipur,0–2 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,8.8,15.7,Hybrid,Demo/Local Dataset,,2026-09-28,True,Artificial Intelligence
+DEMO-0099,Python Developer,Python Developer,TCS,Bengaluru,2–5 years,Python|OOP|Git|REST API|SQL|FastAPI,8.0,14.3,On-site,Demo/Local Dataset,,2026-09-29,True,Software Engineering
+DEMO-0100,API Developer,Backend Developer,Infosys,Chennai,5–8 years,Python|Java|SQL|REST API|Git|System Design,8.7,15.3,Remote,Demo/Local Dataset,,2026-09-30,True,Backend Development
+DEMO-0101,Full Stack Developer,Full Stack Developer,Wipro,Noida,Fresher,HTML|CSS|JavaScript|React|Node.js|SQL|Git|TypeScript,7.5,14.2,Hybrid,Demo/Local Dataset,,2026-10-01,True,Full Stack Development
+DEMO-0102,UI Developer,Frontend Developer,HCLTech,Ahmedabad,0–2 years,HTML|CSS|JavaScript|React|Git|Next.js,7.5,13.9,On-site,Demo/Local Dataset,,2026-10-02,True,Frontend Development
+DEMO-0103,Software Engineer,Software Engineer,Tech Mahindra,Coimbatore,2–5 years,Python|Java|OOP|DSA|Git|SQL|Docker,8.4,15.4,Remote,Demo/Local Dataset,,2026-10-03,True,Software Engineering
+DEMO-0104,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Hyderabad,5–8 years,AWS|Linux|Networking|Git|CI/CD,9.1,15.6,Hybrid,Demo/Local Dataset,,2026-10-04,True,Cloud Computing
+DEMO-0105,DevOps Engineer,DevOps Engineer,Capgemini,Mumbai,Fresher,Linux|Git|CI/CD|Docker|AWS|Grafana,8.0,14.8,On-site,Demo/Local Dataset,,2026-10-05,True,DevOps
+DEMO-0106,SOC Analyst,Cybersecurity Analyst,Oracle,Gurugram,0–2 years,Cybersecurity|Networking|Linux|SIEM|Threat Modeling,8.0,14.2,Remote,Demo/Local Dataset,,2026-09-01,True,Cybersecurity
+DEMO-0107,Cloud Security Engineer,Cloud Security Engineer,Adobe,Kochi,2–5 years,Cloud Security|AWS|IAM|Networking|Cybersecurity|SIEM,9.1,15.5,Hybrid,Demo/Local Dataset,,2026-09-02,True,Cloud Computing
+DEMO-0108,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Visakhapatnam,5–8 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|ETL,8.2,14.2,On-site,Demo/Local Dataset,,2026-09-03,True,Business Intelligence
+DEMO-0109,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Pune,Fresher,Python|Computer Vision|OpenCV|Deep Learning|NumPy|PyTorch,8.2,14.3,Remote,Demo/Local Dataset,,2026-09-04,True,Artificial Intelligence
+DEMO-0110,Language AI Engineer,NLP Engineer,Salesforce,Delhi NCR,0–2 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|LLMs,8.8,15.3,Hybrid,Demo/Local Dataset,,2026-09-05,True,Artificial Intelligence
+DEMO-0111,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Kolkata,2–5 years,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,9.1,15.5,On-site,Demo/Local Dataset,,2026-09-06,True,Machine Learning
+DEMO-0112,AI Research Engineer,Research Engineer,Walmart Global Tech,Jaipur,5–8 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Transformers,9.7,14.7,Remote,Demo/Local Dataset,,2026-09-07,True,Research
+DEMO-0113,Android Developer,Mobile Developer,Flipkart,Bengaluru,Fresher,Java|Kotlin|Swift|Git|React,6.9,12.6,Hybrid,Demo/Local Dataset,,2026-09-08,True,Mobile Development
+DEMO-0114,IoT Developer,IoT Engineer,Swiggy,Chennai,0–2 years,C|C++|Python|IoT|Linux|Raspberry Pi,7.6,12.8,On-site,Demo/Local Dataset,,2026-09-09,True,IoT
+DEMO-0115,Embedded Engineer,Embedded Systems Engineer,Razorpay,Noida,2–5 years,C|C++|Embedded C|Linux|Git|MATLAB,8.4,13.8,Remote,Demo/Local Dataset,,2026-09-10,True,Embedded Systems
+DEMO-0116,Smart Contract Developer,Blockchain Developer,Zoho,Ahmedabad,5–8 years,JavaScript|Solidity|Blockchain|Git|REST API|Cryptography,8.9,13.2,Hybrid,Demo/Local Dataset,,2026-09-11,True,Blockchain
+DEMO-0117,QA Automation Engineer,QA Automation Engineer,Freshworks,Coimbatore,Fresher,Python|Java|Testing|Git|SQL|Selenium,6.8,12.7,On-site,Demo/Local Dataset,,2026-09-12,True,Software Engineering
+DEMO-0118,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Hyderabad,0–2 years,Linux|Python|AWS|Docker|Git|Prometheus,8.5,14.8,Remote,Demo/Local Dataset,,2026-09-13,True,Cloud Computing
+DEMO-0119,Analytics Engineer,Analytics Engineer,LTIMindtree,Mumbai,2–5 years,SQL|Python|Data Engineering|ETL|Git|Airflow,8.3,14.1,Hybrid,Demo/Local Dataset,,2026-09-14,True,Data Engineering
+DEMO-0120,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Gurugram,5–8 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,9.1,15.2,On-site,Demo/Local Dataset,,2026-09-15,True,DevOps
+DEMO-0121,AI Engineer,AI Engineer,Google,Kochi,Fresher,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|PyTorch,8.0,14.7,Remote,Demo/Local Dataset,,2026-09-16,True,Artificial Intelligence
+DEMO-0122,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Visakhapatnam,0–2 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|Docker,8.5,15.4,Hybrid,Demo/Local Dataset,,2026-09-17,True,Machine Learning
+DEMO-0123,Data Scientist,Data Scientist,Amazon,Pune,2–5 years,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Tableau,8.7,15.2,On-site,Demo/Local Dataset,,2026-09-18,True,Data Science
+DEMO-0124,BI Analyst,Data Analyst,Meta,Delhi NCR,5–8 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Pandas,8.3,14.9,Remote,Demo/Local Dataset,,2026-09-19,True,Data Analytics
+DEMO-0125,Data Engineer,Data Engineer,Apple,Kolkata,Fresher,Python|SQL|Data Engineering|ETL|Git|Snowflake,7.7,14.0,Hybrid,Demo/Local Dataset,,2026-09-20,True,Data Engineering
+DEMO-0126,Generative AI Engineer,Generative AI Engineer,IBM,Jaipur,0–2 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,8.9,16.0,On-site,Demo/Local Dataset,,2026-09-21,True,Generative AI
+DEMO-0127,LLM Engineer,LLM Engineer,Accenture,Bengaluru,2–5 years,Python|LLMs|Generative AI|NLP|PyTorch|RAG,9.3,16.3,Remote,Demo/Local Dataset,,2026-09-22,True,Generative AI
+DEMO-0128,Agentic AI Engineer,AI Agent Engineer,Deloitte,Chennai,5–8 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,9.6,16.5,Hybrid,Demo/Local Dataset,,2026-09-23,True,Artificial Intelligence
+DEMO-0129,Python Developer,Python Developer,TCS,Noida,Fresher,Python|OOP|Git|REST API|SQL|Django,7.2,13.5,On-site,Demo/Local Dataset,,2026-09-24,True,Software Engineering
+DEMO-0130,API Developer,Backend Developer,Infosys,Ahmedabad,0–2 years,Python|Java|SQL|REST API|Git|System Design,7.9,14.5,Remote,Demo/Local Dataset,,2026-09-25,True,Backend Development
+DEMO-0131,Full Stack Developer,Full Stack Developer,Wipro,Coimbatore,2–5 years,HTML|CSS|JavaScript|React|Node.js|SQL|Git|Express,8.3,15.0,Hybrid,Demo/Local Dataset,,2026-09-26,True,Full Stack Development
+DEMO-0132,UI Developer,Frontend Developer,HCLTech,Hyderabad,5–8 years,HTML|CSS|JavaScript|React|Git|Figma,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-27,True,Frontend Development
+DEMO-0133,Software Engineer,Software Engineer,Tech Mahindra,Mumbai,Fresher,Python|Java|OOP|DSA|Git|SQL|System Design,7.6,14.6,Remote,Demo/Local Dataset,,2026-09-28,True,Software Engineering
+DEMO-0134,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Gurugram,0–2 years,AWS|Linux|Networking|Git|Kubernetes,8.3,14.8,Hybrid,Demo/Local Dataset,,2026-09-29,True,Cloud Computing
+DEMO-0135,DevOps Engineer,DevOps Engineer,Capgemini,Kochi,2–5 years,Linux|Git|CI/CD|Docker|AWS|Grafana,8.8,15.6,On-site,Demo/Local Dataset,,2026-09-30,True,DevOps
+DEMO-0136,SOC Analyst,Cybersecurity Analyst,Oracle,Visakhapatnam,5–8 years,Cybersecurity|Networking|Linux|SIEM|IAM,8.8,15.0,Remote,Demo/Local Dataset,,2026-10-01,True,Cybersecurity
+DEMO-0137,Cloud Security Engineer,Cloud Security Engineer,Adobe,Pune,Fresher,Cloud Security|AWS|IAM|Networking|Cybersecurity|Terraform,8.3,14.7,Hybrid,Demo/Local Dataset,,2026-10-02,True,Cloud Computing
+DEMO-0138,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Delhi NCR,0–2 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|Statistics,7.4,13.4,On-site,Demo/Local Dataset,,2026-10-03,True,Business Intelligence
+DEMO-0139,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Kolkata,2–5 years,Python|Computer Vision|OpenCV|Deep Learning|NumPy|C++,9.0,15.1,Remote,Demo/Local Dataset,,2026-10-04,True,Artificial Intelligence
+DEMO-0140,Language AI Engineer,NLP Engineer,Salesforce,Jaipur,5–8 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|RAG,9.6,16.1,Hybrid,Demo/Local Dataset,,2026-10-05,True,Artificial Intelligence
+DEMO-0141,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Bengaluru,Fresher,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-01,True,Machine Learning
+DEMO-0142,AI Research Engineer,Research Engineer,Walmart Global Tech,Chennai,0–2 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Computer Vision,8.9,13.9,Remote,Demo/Local Dataset,,2026-09-02,True,Research
+DEMO-0143,Android Developer,Mobile Developer,Flipkart,Noida,2–5 years,Java|Kotlin|Swift|Git|REST API,7.7,13.4,Hybrid,Demo/Local Dataset,,2026-09-03,True,Mobile Development
+DEMO-0144,IoT Developer,IoT Engineer,Swiggy,Ahmedabad,5–8 years,C|C++|Python|IoT|Linux|Embedded C,8.4,13.6,On-site,Demo/Local Dataset,,2026-09-04,True,IoT
+DEMO-0145,Embedded Engineer,Embedded Systems Engineer,Razorpay,Coimbatore,Fresher,C|C++|Embedded C|Linux|Git|Arduino,7.6,13.0,Remote,Demo/Local Dataset,,2026-09-05,True,Embedded Systems
+DEMO-0146,Smart Contract Developer,Blockchain Developer,Zoho,Hyderabad,0–2 years,JavaScript|Solidity|Blockchain|Git|REST API|TypeScript,8.1,12.4,Hybrid,Demo/Local Dataset,,2026-09-06,True,Blockchain
+DEMO-0147,QA Automation Engineer,QA Automation Engineer,Freshworks,Mumbai,2–5 years,Python|Java|Testing|Git|SQL|Jenkins,7.6,13.5,On-site,Demo/Local Dataset,,2026-09-07,True,Software Engineering
+DEMO-0148,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Gurugram,5–8 years,Linux|Python|AWS|Docker|Git|Prometheus,9.3,15.6,Remote,Demo/Local Dataset,,2026-09-08,True,Cloud Computing
+DEMO-0149,Analytics Engineer,Analytics Engineer,LTIMindtree,Kochi,Fresher,SQL|Python|Data Engineering|ETL|Git|dbt,7.5,13.3,Hybrid,Demo/Local Dataset,,2026-09-09,True,Data Engineering
+DEMO-0150,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Visakhapatnam,0–2 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,8.3,14.4,On-site,Demo/Local Dataset,,2026-09-10,True,DevOps
+DEMO-0151,AI Engineer,AI Engineer,Google,Pune,2–5 years,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|Generative AI,8.8,15.5,Remote,Demo/Local Dataset,,2026-09-11,True,Artificial Intelligence
+DEMO-0152,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Delhi NCR,5–8 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|AWS,9.3,16.2,Hybrid,Demo/Local Dataset,,2026-09-12,True,Machine Learning
+DEMO-0153,Data Scientist,Data Scientist,Amazon,Kolkata,Fresher,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Scikit-learn,7.9,14.4,On-site,Demo/Local Dataset,,2026-09-13,True,Data Science
+DEMO-0154,BI Analyst,Data Analyst,Meta,Jaipur,0–2 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Tableau,7.5,14.1,Remote,Demo/Local Dataset,,2026-09-14,True,Data Analytics
+DEMO-0155,Data Engineer,Data Engineer,Apple,Bengaluru,2–5 years,Python|SQL|Data Engineering|ETL|Git|Snowflake,8.5,14.8,Hybrid,Demo/Local Dataset,,2026-09-15,True,Data Engineering
+DEMO-0156,Generative AI Engineer,Generative AI Engineer,IBM,Chennai,5–8 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,9.7,16.8,On-site,Demo/Local Dataset,,2026-09-16,True,Generative AI
+DEMO-0157,LLM Engineer,LLM Engineer,Accenture,Noida,Fresher,Python|LLMs|Generative AI|NLP|PyTorch|RAG,8.5,15.5,Remote,Demo/Local Dataset,,2026-09-17,True,Generative AI
+DEMO-0158,Agentic AI Engineer,AI Agent Engineer,Deloitte,Ahmedabad,0–2 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,8.8,15.7,Hybrid,Demo/Local Dataset,,2026-09-18,True,Artificial Intelligence
+DEMO-0159,Python Developer,Python Developer,TCS,Coimbatore,2–5 years,Python|OOP|Git|REST API|SQL|FastAPI,8.0,14.3,On-site,Demo/Local Dataset,,2026-09-19,True,Software Engineering
+DEMO-0160,API Developer,Backend Developer,Infosys,Hyderabad,5–8 years,Python|Java|SQL|REST API|Git|System Design,8.7,15.3,Remote,Demo/Local Dataset,,2026-09-20,True,Backend Development
+DEMO-0161,Full Stack Developer,Full Stack Developer,Wipro,Mumbai,Fresher,HTML|CSS|JavaScript|React|Node.js|SQL|Git|TypeScript,7.5,14.2,Hybrid,Demo/Local Dataset,,2026-09-21,True,Full Stack Development
+DEMO-0162,UI Developer,Frontend Developer,HCLTech,Gurugram,0–2 years,HTML|CSS|JavaScript|React|Git|Next.js,7.5,13.9,On-site,Demo/Local Dataset,,2026-09-22,True,Frontend Development
+DEMO-0163,Software Engineer,Software Engineer,Tech Mahindra,Kochi,2–5 years,Python|Java|OOP|DSA|Git|SQL|Docker,8.4,15.4,Remote,Demo/Local Dataset,,2026-09-23,True,Software Engineering
+DEMO-0164,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Visakhapatnam,5–8 years,AWS|Linux|Networking|Git|CI/CD,9.1,15.6,Hybrid,Demo/Local Dataset,,2026-09-24,True,Cloud Computing
+DEMO-0165,DevOps Engineer,DevOps Engineer,Capgemini,Pune,Fresher,Linux|Git|CI/CD|Docker|AWS|Grafana,8.0,14.8,On-site,Demo/Local Dataset,,2026-09-25,True,DevOps
+DEMO-0166,SOC Analyst,Cybersecurity Analyst,Oracle,Delhi NCR,0–2 years,Cybersecurity|Networking|Linux|SIEM|Threat Modeling,8.0,14.2,Remote,Demo/Local Dataset,,2026-09-26,True,Cybersecurity
+DEMO-0167,Cloud Security Engineer,Cloud Security Engineer,Adobe,Kolkata,2–5 years,Cloud Security|AWS|IAM|Networking|Cybersecurity|SIEM,9.1,15.5,Hybrid,Demo/Local Dataset,,2026-09-27,True,Cloud Computing
+DEMO-0168,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Jaipur,5–8 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|ETL,8.2,14.2,On-site,Demo/Local Dataset,,2026-09-28,True,Business Intelligence
+DEMO-0169,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Bengaluru,Fresher,Python|Computer Vision|OpenCV|Deep Learning|NumPy|PyTorch,8.2,14.3,Remote,Demo/Local Dataset,,2026-09-29,True,Artificial Intelligence
+DEMO-0170,Language AI Engineer,NLP Engineer,Salesforce,Chennai,0–2 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|LLMs,8.8,15.3,Hybrid,Demo/Local Dataset,,2026-09-30,True,Artificial Intelligence
+DEMO-0171,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Noida,2–5 years,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,9.1,15.5,On-site,Demo/Local Dataset,,2026-10-01,True,Machine Learning
+DEMO-0172,AI Research Engineer,Research Engineer,Walmart Global Tech,Ahmedabad,5–8 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Transformers,9.7,14.7,Remote,Demo/Local Dataset,,2026-10-02,True,Research
+DEMO-0173,Android Developer,Mobile Developer,Flipkart,Coimbatore,Fresher,Java|Kotlin|Swift|Git|React,6.9,12.6,Hybrid,Demo/Local Dataset,,2026-10-03,True,Mobile Development
+DEMO-0174,IoT Developer,IoT Engineer,Swiggy,Hyderabad,0–2 years,C|C++|Python|IoT|Linux|Raspberry Pi,7.6,12.8,On-site,Demo/Local Dataset,,2026-10-04,True,IoT
+DEMO-0175,Embedded Engineer,Embedded Systems Engineer,Razorpay,Mumbai,2–5 years,C|C++|Embedded C|Linux|Git|MATLAB,8.4,13.8,Remote,Demo/Local Dataset,,2026-10-05,True,Embedded Systems
+DEMO-0176,Smart Contract Developer,Blockchain Developer,Zoho,Gurugram,5–8 years,JavaScript|Solidity|Blockchain|Git|REST API|Cryptography,8.9,13.2,Hybrid,Demo/Local Dataset,,2026-09-01,True,Blockchain
+DEMO-0177,QA Automation Engineer,QA Automation Engineer,Freshworks,Kochi,Fresher,Python|Java|Testing|Git|SQL|Selenium,6.8,12.7,On-site,Demo/Local Dataset,,2026-09-02,True,Software Engineering
+DEMO-0178,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Visakhapatnam,0–2 years,Linux|Python|AWS|Docker|Git|Prometheus,8.5,14.8,Remote,Demo/Local Dataset,,2026-09-03,True,Cloud Computing
+DEMO-0179,Analytics Engineer,Analytics Engineer,LTIMindtree,Pune,2–5 years,SQL|Python|Data Engineering|ETL|Git|Airflow,8.3,14.1,Hybrid,Demo/Local Dataset,,2026-09-04,True,Data Engineering
+DEMO-0180,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Delhi NCR,5–8 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,9.1,15.2,On-site,Demo/Local Dataset,,2026-09-05,True,DevOps
+DEMO-0181,AI Engineer,AI Engineer,Google,Kolkata,Fresher,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|PyTorch,8.0,14.7,Remote,Demo/Local Dataset,,2026-09-06,True,Artificial Intelligence
+DEMO-0182,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Jaipur,0–2 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|Docker,8.5,15.4,Hybrid,Demo/Local Dataset,,2026-09-07,True,Machine Learning
+DEMO-0183,Data Scientist,Data Scientist,Amazon,Bengaluru,2–5 years,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Tableau,8.7,15.2,On-site,Demo/Local Dataset,,2026-09-08,True,Data Science
+DEMO-0184,BI Analyst,Data Analyst,Meta,Chennai,5–8 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Pandas,8.3,14.9,Remote,Demo/Local Dataset,,2026-09-09,True,Data Analytics
+DEMO-0185,Data Engineer,Data Engineer,Apple,Noida,Fresher,Python|SQL|Data Engineering|ETL|Git|Snowflake,7.7,14.0,Hybrid,Demo/Local Dataset,,2026-09-10,True,Data Engineering
+DEMO-0186,Generative AI Engineer,Generative AI Engineer,IBM,Ahmedabad,0–2 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,8.9,16.0,On-site,Demo/Local Dataset,,2026-09-11,True,Generative AI
+DEMO-0187,LLM Engineer,LLM Engineer,Accenture,Coimbatore,2–5 years,Python|LLMs|Generative AI|NLP|PyTorch|RAG,9.3,16.3,Remote,Demo/Local Dataset,,2026-09-12,True,Generative AI
+DEMO-0188,Agentic AI Engineer,AI Agent Engineer,Deloitte,Hyderabad,5–8 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,9.6,16.5,Hybrid,Demo/Local Dataset,,2026-09-13,True,Artificial Intelligence
+DEMO-0189,Python Developer,Python Developer,TCS,Mumbai,Fresher,Python|OOP|Git|REST API|SQL|Django,7.2,13.5,On-site,Demo/Local Dataset,,2026-09-14,True,Software Engineering
+DEMO-0190,API Developer,Backend Developer,Infosys,Gurugram,0–2 years,Python|Java|SQL|REST API|Git|System Design,7.9,14.5,Remote,Demo/Local Dataset,,2026-09-15,True,Backend Development
+DEMO-0191,Full Stack Developer,Full Stack Developer,Wipro,Kochi,2–5 years,HTML|CSS|JavaScript|React|Node.js|SQL|Git|Express,8.3,15.0,Hybrid,Demo/Local Dataset,,2026-09-16,True,Full Stack Development
+DEMO-0192,UI Developer,Frontend Developer,HCLTech,Visakhapatnam,5–8 years,HTML|CSS|JavaScript|React|Git|Figma,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-17,True,Frontend Development
+DEMO-0193,Software Engineer,Software Engineer,Tech Mahindra,Pune,Fresher,Python|Java|OOP|DSA|Git|SQL|System Design,7.6,14.6,Remote,Demo/Local Dataset,,2026-09-18,True,Software Engineering
+DEMO-0194,Cloud Infrastructure Engineer,Cloud Engineer,Cognizant,Delhi NCR,0–2 years,AWS|Linux|Networking|Git|Kubernetes,8.3,14.8,Hybrid,Demo/Local Dataset,,2026-09-19,True,Cloud Computing
+DEMO-0195,DevOps Engineer,DevOps Engineer,Capgemini,Kolkata,2–5 years,Linux|Git|CI/CD|Docker|AWS|Grafana,8.8,15.6,On-site,Demo/Local Dataset,,2026-09-20,True,DevOps
+DEMO-0196,SOC Analyst,Cybersecurity Analyst,Oracle,Jaipur,5–8 years,Cybersecurity|Networking|Linux|SIEM|IAM,8.8,15.0,Remote,Demo/Local Dataset,,2026-09-21,True,Cybersecurity
+DEMO-0197,Cloud Security Engineer,Cloud Security Engineer,Adobe,Bengaluru,Fresher,Cloud Security|AWS|IAM|Networking|Cybersecurity|Terraform,8.3,14.7,Hybrid,Demo/Local Dataset,,2026-09-22,True,Cloud Computing
+DEMO-0198,Business Intelligence Developer,Business Intelligence Analyst,NVIDIA,Chennai,0–2 years,SQL|Power BI|Excel|Data Visualization|Data Analysis|Statistics,7.4,13.4,On-site,Demo/Local Dataset,,2026-09-23,True,Business Intelligence
+DEMO-0199,Computer Vision Engineer,Computer Vision Engineer,Qualcomm,Noida,2–5 years,Python|Computer Vision|OpenCV|Deep Learning|NumPy|C++,9.0,15.1,Remote,Demo/Local Dataset,,2026-09-24,True,Artificial Intelligence
+DEMO-0200,Language AI Engineer,NLP Engineer,Salesforce,Ahmedabad,5–8 years,Python|NLP|Machine Learning|Deep Learning|PyTorch|RAG,9.6,16.1,Hybrid,Demo/Local Dataset,,2026-09-25,True,Artificial Intelligence
+DEMO-0201,MLOps Engineer,MLOps Engineer,JPMorgan Chase,Coimbatore,Fresher,Python|Machine Learning|Docker|Git|CI/CD|Kubernetes,8.3,14.7,On-site,Demo/Local Dataset,,2026-09-26,True,Machine Learning
+DEMO-0202,AI Research Engineer,Research Engineer,Walmart Global Tech,Hyderabad,0–2 years,Python|Machine Learning|Deep Learning|PyTorch|Statistics|Computer Vision,8.9,13.9,Remote,Demo/Local Dataset,,2026-09-27,True,Research
+DEMO-0203,Android Developer,Mobile Developer,Flipkart,Mumbai,2–5 years,Java|Kotlin|Swift|Git|REST API,7.7,13.4,Hybrid,Demo/Local Dataset,,2026-09-28,True,Mobile Development
+DEMO-0204,IoT Developer,IoT Engineer,Swiggy,Gurugram,5–8 years,C|C++|Python|IoT|Linux|Embedded C,8.4,13.6,On-site,Demo/Local Dataset,,2026-09-29,True,IoT
+DEMO-0205,Embedded Engineer,Embedded Systems Engineer,Razorpay,Kochi,Fresher,C|C++|Embedded C|Linux|Git|Arduino,7.6,13.0,Remote,Demo/Local Dataset,,2026-09-30,True,Embedded Systems
+DEMO-0206,Smart Contract Developer,Blockchain Developer,Zoho,Visakhapatnam,0–2 years,JavaScript|Solidity|Blockchain|Git|REST API|TypeScript,8.1,12.4,Hybrid,Demo/Local Dataset,,2026-10-01,True,Blockchain
+DEMO-0207,QA Automation Engineer,QA Automation Engineer,Freshworks,Pune,2–5 years,Python|Java|Testing|Git|SQL|Jenkins,7.6,13.5,On-site,Demo/Local Dataset,,2026-10-02,True,Software Engineering
+DEMO-0208,Site Reliability Engineer,Site Reliability Engineer,Mphasis,Delhi NCR,5–8 years,Linux|Python|AWS|Docker|Git|Prometheus,9.3,15.6,Remote,Demo/Local Dataset,,2026-10-03,True,Cloud Computing
+DEMO-0209,Analytics Engineer,Analytics Engineer,LTIMindtree,Kolkata,Fresher,SQL|Python|Data Engineering|ETL|Git|dbt,7.5,13.3,Hybrid,Demo/Local Dataset,,2026-10-04,True,Data Engineering
+DEMO-0210,Cloud Platform Engineer,Platform Engineer,Persistent Systems,Jaipur,0–2 years,Linux|Docker|Kubernetes|Git|CI/CD|Python,8.3,14.4,On-site,Demo/Local Dataset,,2026-10-05,True,DevOps
+DEMO-0211,AI Engineer,AI Engineer,Google,Bengaluru,2–5 years,Python|Artificial Intelligence|Machine Learning|Deep Learning|SQL|Git|Generative AI,8.8,15.5,Remote,Demo/Local Dataset,,2026-09-01,True,Artificial Intelligence
+DEMO-0212,Machine Learning Engineer,Machine Learning Engineer,Microsoft,Chennai,5–8 years,Python|Machine Learning|Scikit-learn|Pandas|NumPy|SQL|AWS,9.3,16.2,Hybrid,Demo/Local Dataset,,2026-09-02,True,Machine Learning
+DEMO-0213,Data Scientist,Data Scientist,Amazon,Noida,Fresher,Python|Statistics|Machine Learning|Pandas|NumPy|SQL|Scikit-learn,7.9,14.4,On-site,Demo/Local Dataset,,2026-09-03,True,Data Science
+DEMO-0214,BI Analyst,Data Analyst,Meta,Ahmedabad,0–2 years,SQL|Excel|Data Analysis|Statistics|Data Visualization|Tableau,7.5,14.1,Remote,Demo/Local Dataset,,2026-09-04,True,Data Analytics
+DEMO-0215,Data Engineer,Data Engineer,Apple,Coimbatore,2–5 years,Python|SQL|Data Engineering|ETL|Git|Snowflake,8.5,14.8,Hybrid,Demo/Local Dataset,,2026-09-05,True,Data Engineering
+DEMO-0216,Generative AI Engineer,Generative AI Engineer,IBM,Hyderabad,5–8 years,Python|Generative AI|LLMs|Machine Learning|REST API|RAG,9.7,16.8,On-site,Demo/Local Dataset,,2026-09-06,True,Generative AI
+DEMO-0217,LLM Engineer,LLM Engineer,Accenture,Mumbai,Fresher,Python|LLMs|Generative AI|NLP|PyTorch|RAG,8.5,15.5,Remote,Demo/Local Dataset,,2026-09-07,True,Generative AI
+DEMO-0218,Agentic AI Engineer,AI Agent Engineer,Deloitte,Gurugram,0–2 years,Python|AI Agents|LLMs|Generative AI|REST API|FastAPI,8.8,15.7,Hybrid,Demo/Local Dataset,,2026-09-08,True,Artificial Intelligence
+DEMO-0219,Python Developer,Python Developer,TCS,Kochi,2–5 years,Python|OOP|Git|REST API|SQL|FastAPI,8.0,14.3,On-site,Demo/Local Dataset,,2026-09-09,True,Software Engineering
+DEMO-0220,API Developer,Backend Developer,Infosys,Visakhapatnam,5–8 years,Python|Java|SQL|REST API|Git|System Design,8.7,15.3,Remote,Demo/Local Dataset,,2026-09-10,True,Backend Development
