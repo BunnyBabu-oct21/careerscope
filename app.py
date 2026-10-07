@@ -229,8 +229,13 @@ def skill_gap_page():
         st.subheader("Skills You Are Missing")
         for x in gap["missing"]: st.error("✗ "+x)
     if gap["missing"]:
-        vals=pd.DataFrame({"status":["Have"]*len(gap["present"])+["Missing"]*len(gap["missing"]),"count":[len(gap["present"]),len(gap["missing"])]})
-        st.plotly_chart(px.bar(vals,x="status",y="count",title="Skill Gap"),use_container_width=True)
+        # Skill gap summary
+            vals = pd.DataFrame({
+                "status": ["Have", "Missing"],
+                "count": [len(gap["present"]), len(gap["missing"])]
+            })
+
+            st.bar_chart(vals.set_index("status"))
     st.subheader("Job Readiness Breakdown")
     radar=go.Figure(data=go.Scatterpolar(r=[gap["readiness"],ready,row.domain_match,row.experience_match,75],theta=["Technical Skills","Projects/Readiness","Domain Knowledge","Experience","Tools"],fill="toself"))
     radar.update_layout(polar=dict(radialaxis=dict(visible=True,range=[0,100])),showlegend=False)
